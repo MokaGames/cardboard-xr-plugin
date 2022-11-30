@@ -23,4 +23,11 @@
             "path": "Samples~/hellocardboard-unity"
         }
     ]
+    ,
+    "author": {
+        "name": "Google LLC",
+        "url": "https://github.com/googlevr"
+    },
+    "changelogUrl": "https://github.com/googlevr/cardboard-xr-plugin/releases",
+    "documentationUrl": "https://developers.google.com/cardboard/develop/unity/quickstart"
 }
